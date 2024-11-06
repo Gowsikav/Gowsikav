@@ -3,7 +3,7 @@
 I'm a student at [Dr. Mahalingam College of Engineering and Technology](https://www.drmcet.ac.in/), currently pursuing a Bachelor's degree in Computer Science and Engineering.
 
 - 🌱 I’m currently learning **Web Development**.
-- 💻 I have experience with **C** and **Java**.
+- 💻 I have experience in **C** and **Java**.
 
 ### Languages & Technologies
 
