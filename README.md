@@ -3,7 +3,7 @@
 I'm a student at [Dr. Mahalingam College of Engineering and Technology](https://www.drmcet.ac.in/), pursuing a Bachelor's degree in Computer Science and Engineering.
 
 - I'm currently learning Web Development, along with Java and SQL.
--💻 Excited to build and grow my skills across the full stack!
+- 💻 Excited to build and grow my skills across the full stack!
 
 
 ### Languages & Technologies
