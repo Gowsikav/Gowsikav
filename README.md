@@ -1,6 +1,6 @@
 ### Hi👋, I'm Gowsika 
 
-I'm a student at [Dr. Mahalingam College of Engineering and Technology](https://www.drmcet.ac.in/), currently pursuing a Bachelor's degree in Computer Science and Engineering.
+I'm a student at [Dr. Mahalingam College of Engineering and Technology](https://www.drmcet.ac.in/), pursuing a Bachelor's degree in Computer Science and Engineering.
 
 - I'm currently learning Web Development, along with Java and SQL.
 -💻 Excited to build and grow my skills across the full stack!
@@ -8,7 +8,6 @@ I'm a student at [Dr. Mahalingam College of Engineering and Technology](https://
 
 ### Languages & Technologies
 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
