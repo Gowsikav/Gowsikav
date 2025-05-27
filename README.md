@@ -1,9 +1,10 @@
 ### Hi 👋, I'm Gowsika
 
-🎓 I'm a student at [Dr. Mahalingam College of Engineering and Technology](https://www.drmcet.ac.in/), pursuing a Bachelor's degree in **Computer Science and Engineering**.
-
+- 💼 Software Intern at X-Workz ODC, Bangalore
+- 🎓 Completed Bachelor’s degree in Computer Science and Engineering from Dr. Mahalingam College of Engineering and Technology
+---
 - 🌱 Currently learning **Java**, **SQL**, and **Web Technologies**
-- 💻 Passionate about building projects and growing as a full-stack developer
+- 💻 Passionate about building projects and growing as a Full-Stack Developer
 - 🌐 Check out my portfolio: [Portfolio](https://gowsikav.github.io/Portfolio/)
 
 ---
